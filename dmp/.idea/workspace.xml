@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="9d4476ab-be62-44c3-8661-4988986b5834" name="Default" comment="" />
+=======
+    <list default="true" id="f0293a95-045b-427f-b321-969571b8ec1c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> dev-lyf
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +25,17 @@
       <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="1">
               <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               <folding>
                 <element signature="e#69#70#0" expanded="true" />
                 <element signature="e#119#120#0" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="57">
+              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+>>>>>>> dev-lyf
             </state>
           </provider>
         </entry>
@@ -37,12 +49,32 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/HelloWorld.java" />
+      </list>
+    </option>
+  </component>
+>>>>>>> dev-lyf
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+>>>>>>> dev-lyf
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-220" />
     <option name="y" value="279" />
@@ -169,12 +201,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527993114309</updated>
+<<<<<<< HEAD
       <workItem from="1527993122860" duration="1533000" />
+=======
+      <workItem from="1527993122860" duration="896000" />
+>>>>>>> dev-lyf
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="266000" />
+=======
+    <option name="totallyTimeSpent" value="896000" />
+>>>>>>> dev-lyf
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -190,7 +230,11 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32954547" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.91558444" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32954547" />
+>>>>>>> dev-lyf
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
@@ -221,12 +265,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1">
           <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding>
             <element signature="e#69#70#0" expanded="true" />
             <element signature="e#119#120#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="57">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+>>>>>>> dev-lyf
         </state>
       </provider>
     </entry>
